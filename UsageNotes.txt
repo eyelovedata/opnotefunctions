@@ -1,0 +1,6 @@
+Additional notes on usage: 
+Please let me know if you find any issues, mistakes, or even just if you improve upon these algorithms. They are simple in construction and were only developed and validated at a single site, so they may not work for other purposes or locations. If you do use them as a starting point in academic work, I would appreciate a citation. 
+
+Sophia Wang 
+sywang@stanford.edu 
+sophia.yw@gmail.com 
